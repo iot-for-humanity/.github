@@ -22,7 +22,7 @@ We focus on:
 
 ## Current Projects
 
-### [SimpleMakesSense](https://github.com/iot-for-humanity/SimpleSense)
+### [SimpleSense](https://github.com/iot-for-humanity/SimpleSense)
 A minimal temperature monitoring system using MicroPython, a DS18B20 sensor, and a Raspberry Pi Pico W.
 Designed to meet HACCP logging requirements for emergency kitchens.
 
